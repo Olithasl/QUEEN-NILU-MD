@@ -19,7 +19,7 @@
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p> 
 
-### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
+### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Olithasl)
 
 ## [`Version --> 2.0.6`](https://www.janithsadanuwan.tech/QueenNilu)
 
